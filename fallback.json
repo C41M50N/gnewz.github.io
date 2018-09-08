@@ -1,9 +1,9 @@
 {
   "articles": [
     {
-      "title": "Dog fails to fetch articles, finds ball",
+      "title": "Dog fails to fetch articles, finds depression",
       "url": "",
-      "urlToImage": "images/fetch-dog.jpg",
+      "urlToImage": "images/errorDog.jpg",
       "description": "Try loading the page again when you're online."
     }
   ]
